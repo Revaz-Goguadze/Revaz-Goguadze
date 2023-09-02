@@ -47,7 +47,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">Thanks for visiting my profile! Let's connect and build amazing projects together. 😄</p>
