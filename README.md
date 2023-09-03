@@ -1,11 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Revaz-Goguadze.Revaz-Goguadze" />
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Revaz Goguadze!;" />
-</h1><p align="center">
-  <img src="https://github.com/Revaz-Goguadze/Revaz-Goguadze/raw/main/assets/profile.gif" alt="Animated GitHub Profile Image" width="300"/>
-</p>
+</h2>
+<br>
+<h3 align="center">A Junior software developer</h3>
 
+<br>
 <p align="center">
   🏫 Studying at Kutaisi International University, Georgia 🇬🇪<br>
   📚 2nd-grade student with a passion for coding<br>
@@ -17,18 +17,14 @@
 
 <hr>
 
-<h2 align="center">🚀 My Skills</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-</p>
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,ocaml,mysql,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,git,linux,vim,neovim,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,net,lua,cpp" /><br>
+</div
+<br>
 <hr>
 
 <h2 align="center">📫 Connect with Me</h2>
@@ -45,12 +41,17 @@
   </a>
 </p>
 
-<hr>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Revaz-Goguadze&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 
-<p align="center">Thanks for visiting my profile! Let's connect and build amazing projects together. 😄</p>
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
