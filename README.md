@@ -9,9 +9,6 @@
 <p align="center">
   🏫 Studying at Kutaisi International University, Georgia 🇬🇪<br>
   📚 2nd-grade student with a passion for coding<br>
-  💻 Competent in C++, C#, Java, OCaml, and more<br>
-  🌐 Mid-level skills in HTML, CSS<br>
-  🐧 Linux enthusiast and shell scripting ninja<br>
   🚀 Always eager to learn and explore new technologies
 </p>
 
