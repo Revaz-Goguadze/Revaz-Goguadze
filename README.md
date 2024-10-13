@@ -58,16 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revaz-Goguadze&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="95%" alt="Contribution Graph"/>
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Revaz-Goguadze/Revaz-Goguadze/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Revaz-Goguadze/Revaz-Goguadze/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Revaz-Goguadze/Revaz-Goguadze/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
