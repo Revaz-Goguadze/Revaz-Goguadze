@@ -4,16 +4,16 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+    # Run every 12 hours
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Allows manual triggering of the workflow from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -24,10 +24,12 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
+      # Step 1: Clone the repository
+      - name: Clone repository
         uses: actions/checkout@v3
     
-      - name: Generate the snake files in './dist/'
+      # Step 2: Generate the snake files in the 'dist' directory
+      - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -37,12 +39,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Show the build status
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
+      # Step 4: Push the new files to the 'output' branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -50,3 +54,8 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 5: Handle errors (optional, but recommended)
+      - name: Handle errors
+        if: failure()
+        run: echo "An error occurred during the workflow execution."
