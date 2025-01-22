@@ -14,6 +14,7 @@
   </a>
 </div>
 
+
 <br/>
 
 <h2 align="center">About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
@@ -30,17 +31,20 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp" /><br/>
+  <h4>Core</h4>
+  <img src="https://skillicons.dev/icons?i=ts,js,python" /><br/>
   
-  <h4>Frontend & Backend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask" /><br/>
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br/>
   
-  <h4>Databases & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,git" /><br/>
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br/>
   
-  <h4>Development Environment</h4>
-  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,bash" />
+  <h4>Database & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" /><br/>
+  
+  <h4>DevOps & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
 
 <br/>
@@ -49,11 +53,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Revaz-Goguadze&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Revaz-Goguadze&style=for-the-badge&color=3B82F6"/>
-</div>
