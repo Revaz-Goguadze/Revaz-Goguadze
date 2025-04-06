@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center">�️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
   <h4>Core</h4>
