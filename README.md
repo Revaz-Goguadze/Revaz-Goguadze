@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Revaz-Goguadze&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 <br/>
 
@@ -28,7 +32,26 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🚀 Currently Learning & Goals</h2>
+
+<div align="center">
+  🤖 Deepening expertise in AI & Machine Learning<br/>
+  ☁️ Mastering Cloud Infrastructure (AWS, Serverless technologies)<br/>
+  🧩 Building scalable full stack apps with Django, htmx, and modern JS frameworks<br/>
+  💬 Contributing more to Open Source & Tech communities
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Revaz-Goguadze/Revaz-Goguadze/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<br/>
+
+<h2 align="center">�️ Tech Stack & Tools</h2>
 
 <div align="center">
   <h4>Core</h4>
@@ -53,6 +76,9 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaz-Goguadze&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
+  <br/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Revaz-Goguadze&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </div>
 
 <br/>
