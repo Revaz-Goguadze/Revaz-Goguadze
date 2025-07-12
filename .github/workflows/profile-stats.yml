@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '0 6 * * *'  # Daily at 6 AM
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   generate-stats:
@@ -15,19 +13,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         
-      - name: Generate GitHub Stats
-        uses: teoxoy/profile-readme-stats@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: Generate Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@v1
+        uses: ashutosh00710/github-readme-activity-graph@v1.6.0
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           bg_color: 0d1117
-          color: 3b82f6
-          line: 3b82f6
+          color: 58a6ff
+          line: 58a6ff
           point: ffffff
           area: true
           hide_border: true
@@ -38,5 +31,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --staged --quiet || git commit -m "Update profile stats"
+          git diff --staged --quiet || git commit -m "Update profile activity graph"
           git push
