@@ -9,10 +9,10 @@
 I'm a Computer Science student at Kutaisi International University in Georgia, passionate about creating robust web applications and exploring cutting-edge technologies. With expertise spanning the full development stack, I specialize in building scalable solutions using modern frameworks and cloud technologies.
 
 ### Current Focus
-- 🎓 **Education**: Computer Science at Kutaisi International University, Georgia
-- 🔬 **Research**: AI & Machine Learning applications
-- ☁️ **Infrastructure**: Cloud-native architecture with AWS
-- 🌐 **Development**: Full-stack applications with Django, React, and modern JS
+- **Education**: Computer Science at Kutaisi International University, Georgia
+- **Research**: AI & Machine Learning applications
+- **Infrastructure**: Cloud-native architecture with AWS
+- **Development**: Full-stack applications with Django, React, and modern JS
 
 ## Technical Expertise
 
