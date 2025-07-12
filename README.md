@@ -1,84 +1,65 @@
+# Revaz Goguadze
+
+**Full Stack Developer** | **Computer Science Student** | **AI Enthusiast**
+
+*Building scalable web applications and exploring the frontiers of artificial intelligence*
+
+## About Me
+
+I'm a Computer Science student at Kutaisi International University in Georgia, passionate about creating robust web applications and exploring cutting-edge technologies. With expertise spanning the full development stack, I specialize in building scalable solutions using modern frameworks and cloud technologies.
+
+### Current Focus
+- 🎓 **Education**: Computer Science at Kutaisi International University, Georgia
+- 🔬 **Research**: AI & Machine Learning applications
+- ☁️ **Infrastructure**: Cloud-native architecture with AWS
+- 🌐 **Development**: Full-stack applications with Django, React, and modern JS
+
+## Technical Expertise
+
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-000000?style=flat&logo=express&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white)
+
+## Featured Projects
+
+> *Coming Soon* - Currently organizing and documenting my best work for showcase
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/revaz-goguadze)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goguadze.rezi2022@gmail.com)
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Revaz+%F0%9F%91%8B;Full+Stack+Developer" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaz-Goguadze&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <a href="mailto:goguadze.rezi2022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/revaz-goguadze" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100094514674568" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Revaz-Goguadze&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Revaz-Goguadze&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-</p>
+---
 
-
-<br/>
-
-<h2 align="center">About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-
-<div align="center">
-  🎓 Computer Science student at Kutaisi International University, Georgia 🇬🇪<br/>
-  💻 Full Stack Developer passionate about building web applications<br/>
-  🚀 Currently exploring AI and Machine Learning<br/>
-  ⚡ Always learning and building something new
-</div>
-
-<br/>
-
-<h2 align="center">🚀 Currently Learning & Goals</h2>
-
-<div align="center">
-  🤖 Deepening expertise in AI & Machine Learning<br/>
-  ☁️ Mastering Cloud Infrastructure (AWS, Serverless technologies)<br/>
-  🧩 Building scalable full stack apps with Django, htmx, and modern JS frameworks<br/>
-  💬 Contributing more to Open Source & Tech communities
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Revaz-Goguadze/Revaz-Goguadze/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-<br/>
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-  <h4>Core</h4>
-  <img src="https://skillicons.dev/icons?i=ts,js,python" /><br/>
-  
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br/>
-  
-  <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br/>
-  
-  <h4>Database & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" /><br/>
-  
-  <h4>DevOps & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</div>
-
-<br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revaz-Goguadze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaz-Goguadze&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&hide=css" />
-  <br/>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Revaz-Goguadze&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
-</div>
-
-<br/>
+*This profile is regularly updated with new projects and achievements*
